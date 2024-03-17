@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jason Lee
 
-<!--
-**jasonpatricklee/jasonpatricklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologist with experience in security, design, and reliability of distributed systems.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Functional design focusing on human intution.
+  - User interfaces, APIs, and tools to make people happier than they once were.
+- Informal and spontaneous photography and travel.
+
+## Online
+
+- https://www.jplee.me
